@@ -1,1 +1,1 @@
-# mcalculator
+# calculator
